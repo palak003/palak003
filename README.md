@@ -19,6 +19,7 @@
 <a href="https://stackoverflow.com/users/22014525/palak-goel" target="blank"><img align="center" src="https://www.shareicon.net/data/512x512/2017/06/21/887494_logo_512x512.png" alt="22002737/palak-goel" height="80" width="80" /></a>
 <a href="https://leetcode.com/palak003/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="palakgoel/" height="40" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/codepalak123" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="palakgoel/practice" height="40" width="40" /></a>
+ <a href="https://www.codingninjas.com/codestudio/profile/0a190eda-2c00-431c-9d5c-25ac6fafa94a" target="blank"><img align="center" src="https://asset.brandfetch.io/idQVGbrvGL/idFrWdCkB5.png?updated=1681732628908" alt="palak-goel/" height="40" width="80" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -48,7 +49,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231a202c.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-
+[![DSA](https://img.shields.io/badge/Data_Structures_and_Algorithms-%2300758F.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_structure)
 
 
 <br><br><br>
