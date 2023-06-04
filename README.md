@@ -15,10 +15,10 @@
 
 <h3 align="center">Profiles:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/palak-goel-5a76941bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palak-goel/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22014525/palak-goel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22002737/palak-goel" height="30" width="40" /></a>
-<a href="https://leetcode.com/palak003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="palakgoel/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/codepalak123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="palakgoel/practice" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/palak-goel-5a76941bb/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="palak-goel/" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/22014525/palak-goel" target="blank"><img align="center" src="https://www.shareicon.net/data/512x512/2017/06/21/887494_logo_512x512.png" alt="22002737/palak-goel" height="80" width="80" /></a>
+<a href="https://leetcode.com/palak003/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="palakgoel/" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/codepalak123" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="palakgoel/practice" height="40" width="40" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
